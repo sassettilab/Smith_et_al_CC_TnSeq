@@ -1,3 +1,7 @@
+This repository contains supplemental data from Smith et al., 2022. 
+
+Publication URL: https://elifesciences.org/articles/74419
+
 Files:
 
 addcovar.csv - batch membership; additive covariates formatted for R/qtl2
